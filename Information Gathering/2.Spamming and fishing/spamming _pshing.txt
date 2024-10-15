@@ -1,0 +1,22 @@
+👨‍💻 TOP 8 PHISHING TOOLS USED IN 2024 💻
+
+Setoolkit -
+https://github.com/trustedsec/social-engineer-toolkit
+
+SocialFish -
+https://github.com/UndeadSec/SocialFish
+
+HiddenEye -
+https://github.com/DarkSecDevelopers/HiddenEye-Legacy
+
+Evilginx2 -
+https://github.com/kgretzky/evilginx2
+
+SeeYou - (Get Location using phishing attack) -
+https://github.com/Viralmaniar/I-See-You
+
+SayCheese - (Grab target’s Webcam Shots) -
+https://github.com/hangetzzu/saycheese
+
+QR Code Jacking -
+https://github.com/cryptedwolf/ohmyqr
