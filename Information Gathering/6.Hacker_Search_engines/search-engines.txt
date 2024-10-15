@@ -1,0 +1,11 @@
+😎Search engines for pentesters😎
+
+1. shodan.io , onyphe.io , censys.io , ivre.rocks ~ server
+2. wigle.net ~ wifi 
+3. grep.app , searchcode.com , publicwww.com ~ codes
+4. app.binaryedge , wiz.greynoise.io , fofa.info , zoomeye.org , leakix.net , urlscan.io , socradar.io , pulsedive.com  ~ threat intelligence 
+5. hunter.io ~ email
+6. intelx.io ~ osint
+7. app.netlas.io , fullhunt.io , binaryedge.io ~ attack surface 
+8. crt.sh ~ certificate search
+9. vulners.com ~ vulnerabilities
