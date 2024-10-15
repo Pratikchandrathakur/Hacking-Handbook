@@ -1,0 +1,49 @@
+Some important websites for doxing
+
+1) www.spiderfoot.net/
+
+2) start.me/p/L1rEYQ/osint4all
+
+3) www.osinttechniques.com/osint-tools.html
+
+4) osintframework.com/
+
+5) ohshint.gitbook.io/oh-shint-its-…-resources
+
+6) www.osintcombine.com/osint-bookmarks
+
+7) https://intelx.io
+
+Plantes 
+
+1) www.faxvin.com/license-plate-lookup
+
+2) infotracer.com/
+
+Phones
+
+1) github.com/sundowndev/phoneinfoga
+
+2) www.spydialer.com/
+
+Email OSINT
+
+1) epieos.com/
+
+2) haveibeensold.app/
+
+3) breachdirectory.org/
+
+4) dehashed.com/
+
+5) osint.sh/reversewhois/
+
+6) github.com/blackeko/yesitsme
+
+7) github.com/megadose/toutatis
+
+8) identificator.space/search
+
+Images
+
+1) pimeyes.com/en
