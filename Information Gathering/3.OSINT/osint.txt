@@ -1,0 +1,31 @@
+🦋Osint Resources:🦋
+
+https://www.osintessentials.com/
+https://www.spokeo.com/
+https://randhome.io/blog/2019/01/05/2019-osint-guide/
+https://www.beenverified.com/
+https://www.fastpeoplesearch.com/
+https://www.aware-online.com/en/osint-tools/
+https://osintframework.com/
+https://haveibeenpwned.com/
+https://www.osintcurio.us/
+https://www.dehashed.com/
+https://www.whocalledme.com/
+
+
+Few more tools :
+https://www.shodan.io/
+https://cleanup.pictures/
+https://instantusername.com/#/
+https://facecheck.id/
+https://tineye.com/
+https://urlscan.io/
+https://pimeyes.com/en
+https://github.com/sorenlouv/fb-sleep-stats
+https://github.com/laramies/theHarvester
+
+https://github.com/lanmaster53/recon-ng
+https://github.com/smicallef/spiderfoot
+https://inteltechniques.com/
+https://twitter.com/search-advanced?lang=en
+https://www.maltego.com/
