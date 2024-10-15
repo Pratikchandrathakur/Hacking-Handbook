@@ -1,0 +1,8 @@
+Telegram Search Engines
+
+1. xtea.io/ts_en.html
+2. telemetryapp.io
+3. Telegago (https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg)
+4. lyzem.com/
+5. tgstat.com/en/search
+6. tgdev.io/tme/
