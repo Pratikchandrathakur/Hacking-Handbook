@@ -1,0 +1,61 @@
+TOP 20 PHISHING TOOLS TO USE IN 2024🪞
+
+1. Setoolkit
+✣ https://github.com/trustedsec/social-engineer-toolkit
+
+2. Evilginx2
+❂ https://github.com/kgretzky/evilginx
+
+3. HiddenEye
+❉ https://github.com/DarkSecDevelopers/HiddenEye-Legacy
+
+4. SocialFish
+✦ https://github.com/UndeadSec/SocialFish
+
+5. SeeYou (Get Location using phishing attack)
+❋ https://github.com/Viralmaniar/I-See-You
+
+6. SayCheese (Grab target's Webcam Shots)
+✵ https://github.com/hangetzzu/saycheese
+
+7. QR Code Jacking
+✿ https://github.com/cryptedwolf/ohmyqr
+
+8. ShellPhish
+✸ https://github.com/An0nUD4Y/shellphish
+
+9. BlackPhish
+✤ https://github.com/iinc0gnit0/BlackPhish
+
+10. Zphisher
+✧ https://github.com/htr-tech/zphisher
+
+❁ 11. PhishX
+✺ https://github.com/thelinuxchoice/PhishX
+
+12. Gophish
+✢ https://github.com/gophish/gophish
+
+13. Wifiphisher
+❖ https://github.com/wifiphisher/wifiphisher
+
+14. Phishing Frenzy
+✯ https://github.com/pentestgeek/phishing-frenzy
+
+15. Ghost Phisher
+❃ https://github.com/savio-code/ghost-phisher
+
+16. BlackEye
+❀ https://github.com/thelinuxchoice/blackeye
+
+17. King-Phisher
+✶ https://github.com/rsmusllp/king-phisher
+
+18. SpookPhish
+✹ https://github.com/technowlogy/spookphish
+
+19. PyPhisher
+✥ https://github.com/KasRoudra/PyPhisher
+
+20. HiddenPhish
+❁ https://github.com/HiddenPhish/HiddenPhish
