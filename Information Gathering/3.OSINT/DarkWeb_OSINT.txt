@@ -1,0 +1,24 @@
+
+TheHarvester (https://github.com/laramies/theHarvester) :
+An OSINT tool for gathering email accounts, subdomains, hosts, and more from different public sources.
+
+OSINT-Framework (https://github.com/BlackHawkSecurity/OSINT-Framework) :
+A collection of OSINT tools categorized by their purpose, including links relevant to Dark Web research.
+
+OnionScan (https://github.com/specialsauce/OnionScan) :
+A tool for scanning and analyzing .onion websites, helping you uncover information about them.
+
+sn0int (https://github.com/k1lo17/sn0int) :
+An OSINT framework that allows users to collect, analyze, and visualize intelligence data, including Dark Web sources.
+
+dorkgen (https://github.com/nikhilm/Google-Dork-Generator) :
+While not specific to the Dark Web, it can generate Google dorks for various investigations, including finding .onion links.
+
+scrapy (https://github.com/scrapy/scrapy) :
+A powerful web scraping framework that can be adapted for scraping data from .onion sites.
+
+RedEye (https://github.com/redteamops/redeye) :
+A tool designed to scrape and analyze Dark Web markets and forums for intelligence gathering.
+
+Censys (https://github.com/censys/censys-python) :
+Provides an API for searching internet-wide scan data, which can include information on .onion sites.
