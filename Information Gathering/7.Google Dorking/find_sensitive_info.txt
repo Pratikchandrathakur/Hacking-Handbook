@@ -1,0 +1,56 @@
+Google Dorks for Bug Bounty | Find Sensitive Information 
+
+1. Discovering Exposed Files:
+- intitle:"index of" "site:http://site.com (https://t.co/GwJ7nh5mtZ)"
+- filetype:log inurl:log site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:sql inurl:sql site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:env inurl:.env site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+2. Finding Sensitive Directories:
+- inurl:/phpinfo.php site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- inurl:/admin site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- inurl:/backup site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- inurl:wp- site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+3. Exposed Configuration Files:
+- filetype:config inurl:config site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:ini inurl:wp-config.php site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:json inurl:credentials site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+4. Discovering Usernames and Passwords:
+- intext:"password" filetype:log site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- intext:"username" filetype:log site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:sql "password" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+5. Finding Database Files:
+- filetype:sql inurl:db site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:sql inurl:dump site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:bak inurl:db site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+6. Exposed Git Repositories:
+- inurl:".git" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- inurl:"/.git/config" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- intitle:"index of" ".git" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+7. Finding Publicly Exposed Emails:
+- intext:"email" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- inurl:"contact" intext:"
+@site (https://x.com/site)
+.com" -www.site.com
+- filetype:xls inurl:"email" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+8. Discovering Vulnerable Web Servers:
+- intitle:"Apache2 Ubuntu Default Page: It works" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- intitle:"Index of /" "Apache Server" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- intitle:"Welcome to nginx" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+9. Finding API Keys:
+- filetype:env "DB_PASSWORD" site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- intext:"api_key" filetype:env site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- intext:"AWS_ACCESS_KEY_ID" filetype:env site:http://site.com (https://t.co/GwJ7nh5mtZ)
+
+10. Exposed Backup Files:
+- filetype:bak inurl:backup site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:bak inurl:backup site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:zip inurl:backup site:http://site.com (https://t.co/GwJ7nh5mtZ)
+- filetype:tgz inurl:backup site:http://site.com (https://t.co/GwJ7nh5mtZ)
