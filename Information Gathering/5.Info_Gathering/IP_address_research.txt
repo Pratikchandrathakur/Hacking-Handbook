@@ -1,0 +1,31 @@
+Online services for IP address research:
+
+1. IPQualityScore
+- Assesses IP addresses for involvement in fraudulent activities.
+- Detects VPN and Proxy
+- Tracks device changes at a specific address
+- Scans for malicious content
+- Checks links for redirects or malicious payload
+
+2. IPInfo
+- Has a very simple and user-friendly interface.
+- Geolocation detection
+- IP range search
+- IP and VPN detection
+
+3. Maxmind
+- Particular attention to the precise determination of the IP address geolocation using GeoIP2
+- Fraud detector
+- VPN and Proxy detector
+
+4. VirusTotal
+- Particular attention is paid to the reputation of the IP address and its presence in various illegal activities.
+- Uses about 100 different tools to detect and review the activity of the IP addresses being investigated.
+
+5. MxToolBox
+- Particular attention is paid to IP addresses linked to a specific domain.
+- An excellent tool for mass domain searches
+
+6. IPVoid
+- A large number of tools for IP address research
+- Attention to spam and malware distribution.
