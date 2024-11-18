@@ -1,0 +1,65 @@
+ 30 Free Resources to Check for Leaked Email Data and Account Information ⁍
+
+℣ Web-based Tools:
+
+1. ℥ haveibeenpwned.com — Check in leaked databases
+
+2. ℤ firefox.com/monitor — Mozilla's free breach monitoring service
+
+3. Ω cybernews.com/personal-data-leak-check — Checks if your email was involved in data breaches
+
+4. ℧ emailrep.io — Find websites where account has been registered by email
+
+5. ⅏ breachdirectory.org — Search for leaked passwords and breach details
+
+6. ⅎ intelx.io — Multifunctional search engine, including darknet searches (limited free searches)
+
+7. ℩ ghostproject.fr — Search engine for data breaches (requires account)
+
+8. ℺ avast.com/hackcheck — Free tool to check if your email has been compromised
+
+9. ⅌ sec.hpi.de/ilc/search — Identity Leak Checker by Hasso Plattner Institute
+
+10. ℻ leakpeek.com — Free tier available for searching leaked databases
+
+11. ⅍ leak-lookup.com — Search engine for data breaches (free option available)
+
+12. ℼ spycloud.com/check-your-exposure — Limited free checks for data exposure
+
+⁌ GitHub Tools ⁍
+
+13. ℾ github.com/hmaverickadams/breach-parse — Tool for parsing breach data
+
+14. ℿ github.com/D4Vinci/Cr3dOv3r — Credential reuse detection tool
+
+15. ⅀ github.com/megadose/holehe — Email OSINT tool
+
+16. ⅁ github.com/alpkeskin/mosint — Email OSINT investigation tool
+
+17. ⅂ github.com/sham00n/buster — Advanced email reconnaissance tool
+
+18. ⅃ github.com/woj-ciech/LeakLooker — Find open databases with sensitive data
+
+19. ⅄ github.com/s0md3v/Photon — Web crawler and OSINT tool
+
+20. ⅅ github.com/laramies/theHarvester — E-mails, subdomains and names harvester
+
+21. ⅆ github.com/sherlock-project/sherlock — Hunt down social media accounts by username
+
+22. ⅇ github.com/sundowndev/phoneinfoga — Advanced information gathering & OSINT tool for phone numbers
+
+23. ⅈ github.com/mxrch/GHunt — Investigate Google accounts with emails
+
+24. ⅉ github.com/khast3x/h8mail — Email OSINT and breach hunting tool
+
+25. ⅊ github.com/vysecurity/LinkedInt — LinkedIn scraper for OSINT
+
+26. ⅋ github.com/m4ll0k/Infoga — Email OSINT tool
+
+27. ⅍ github.com/thewhiteh4t/pwnedOrNot — OSINT tool for finding passwords of compromised email addresses
+
+28. ⅎ github.com/Ekultek/WhatBreach — OSINT tool to find breached emails, databases, and relevant information
+
+29. ℀ github.com/SocialLinks-IO/social-analyzer — API, CLI, and Web App for social media analytics
+
+30. ℁ github.com/WebBreacher/WhatsMyName — Username enumeration on various websites
