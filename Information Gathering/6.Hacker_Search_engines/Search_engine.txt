@@ -1,0 +1,7 @@
+Google Hacking – Free Advanced Searches from Pentest-Tools.com     https://pentest-tools.com/information-gathering/google-hacking#
+Google Cached Pages of Any Website     http://cachedview.com/
+Offensive Security’s Exploit Database Archive     https://www.exploit-db.com/google-hacking-database
+Google Hacking     https://pentest-tools.com/information-gathering/google-hacking
+DorkSearch     https://www.dorksearch.com/
+Google Social Search     https://www.social-searcher.com/google-social-search/
+Direct Download Almost Anything     https://ewasion.github.io/opendirectory-finder/
