@@ -1,0 +1,41 @@
+20 Very Advanced Information Gathering Tools 
+
+➀ ➧ Network Map (nmap) - Network Scanner - https://github.com/nmap/nmap
+
+➁ ➨ Maltego - Visual Link Analysis - https://www.maltego.com/
+
+➂ ➩ Shodan - IoT Search Engine - https://github.com/m4ll0k/Shodanfy.py
+
+➃ ➫ Recon-ng - Web Reconnaissance Framework - https://github.com/lanmaster53/recon-ng
+
+➄ ➬ Spiderfoot - OSINT Automation Tool - https://github.com/smicallef/spiderfoot
+
+➅ ➮ theHarvester - Email and Subdomain Gatherer - https://github.com/laramies/theHarvester
+
+➆ ➯ Amass - Network Mapping of Attack Surfaces - https://github.com/OWASP/Amass
+
+➇ ➰ RED HAWK - All-In-One Scanning - https://github.com/Tuhinshubhra/RED_HAWK
+
+➈ ➱ ReconSpider - Multi-purpose Gathering Tool - https://github.com/bhavsec/reconspider
+
+➉ ➲ OSINT Framework - Information Gathering Collection - https://github.com/lockfale/OSINT-Framework
+
+11 ➳ Infoga - Email OSINT Gatherer - https://github.com/m4ll0k/Infoga
+
+12 ➵ Striker - Offensive Information Gathering - https://github.com/s0md3v/Striker
+
+13 ➸ SecretFinder - API Key and Secret Finder - https://github.com/m4ll0k/SecretFinder
+
+14 ➺ Xerosploit - Penetration Testing Toolkit - https://github.com/LionSec/xerosploit
+
+15 ➼ FOCA - Metadata Analyzer - https://github.com/ElevenPaths/FOCA
+
+16 ➽ ReconDog - Reconnaissance Swiss Army Knife - https://github.com/s0md3v/ReconDog
+
+17 ➾ Metagoofil - Metadata Extractor - https://github.com/laramies/metagoofil
+
+18 ⟶ Dracnmap - Nmap Script Wrapper - https://github.com/Screetsec/Dracnmap
+
+19 ⟹ rang3r - Multi-threaded Port Scanner - https://github.com/floriankunushevci/rang3r
+
+20 ⟿ Breacher - Admin Panel Finder - https://github.com/s0md3v/Breacher
