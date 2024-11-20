@@ -1,0 +1,58 @@
+ʜᴀᴄᴋɪɴɢ ᴄᴏᴜʀꜱᴇꜱ, [9/7/2024 6:45 PM]
+🛡️ Tools to search for people's contacts (free or trial free) 📖
+
+x-ray.contact
+datalead.ai
+signalhire.com
+predictasearch.com
+usersearch.org
+snov.io
+castrickclues.com
+osint.industries
+epieos.com
+
+
+Here we have compiled a list of 40+ cheat sheets that cover a wide range of topics essential for you. 👇 
+ 
+1. HTML & CSS :- htmlcheatsheet.com 
+2. JavaScript :- https://lnkd.in/dfSvFuhM 
+3. Jquery :- https://lnkd.in/dcvy6kmQ 
+4. Bootstrap 5 :- https://lnkd.in/dNZ6qdBh 
+5. Tailwind CSS :- https://lnkd.in/d_T5q5Tx 
+6. React :- https://lnkd.in/de55QGBg 
+7. Python :- https://lnkd.in/dmZa39rE 
+8. MongoDB :- https://lnkd.in/dBXxCQ43 
+9. SQL :- https://lnkd.in/dEFY_jAk 
+10. Nodejs :- https://lnkd.in/dwry8BKH 
+11. Expressjs :- https://lnkd.in/d3BMMwem 
+12. Django :- https://lnkd.in/dYWQKZnT 
+13. PHP :- https://quickref.me/php 
+14. Google Dork :- https://lnkd.in/dKej3-42 
+15. Linux :- https://lnkd.in/dCgH_qUq 
+16. Git :- https://lnkd.in/djf9Wc98 
+17. VSCode :- https://quickref.me/vscode 
+18. PC Keyboard :- http://bit.ly/3luF73K 
+19. Data Structures and Algorithms :- https://lnkd.in/d75ijyr3 
+20. DSA Practice :- https://lnkd.in/dDc6SaR8 
+21. Data Science :- https://lnkd.in/dHaxPYYA 
+22. Flask :- https://lnkd.in/dkUyWHqR 
+23. CCNA :- https://lnkd.in/dE_yD6ny 
+24. Cloud Computing :- https://lnkd.in/d9vggegr 
+25. Machine Learning :- http://bit.ly/40rhl7D 
+26. Windows Command :- https://lnkd.in/dAMeCywP 
+27. Computer Basics :- https://lnkd.in/d9yaNaWN 
+28. MySQL :- https://lnkd.in/d7iJjSpQ 
+29. PostgreSQL :- https://lnkd.in/dDHQkk5f 
+30. MSExcel :- https://bit.ly/3Jz0dpG 
+31. MSWord :- https://lnkd.in/dAX4FGkR 
+32. Java :- https://lnkd.in/dRe98iSB 
+33. Cryptography :- https://lnkd.in/dYvRHAH9 
+34. C++ :- https://lnkd.in/d4GjE2kd 
+35. C :- https://lnkd.in/diuHU72d 
+36. Resume Creation :- https://bit.ly/3JA3KnJ 
+37. ChatGPT :- https://lnkd.in/dsK37bSj 
+38. Docker :- https://lnkd.in/dNVJxYNa 
+39. Gmail :- bit.ly/3JX68pR 
+40. AngularJS :- bit.ly/3yYY0ik 
+41. Atom Text Editor :- bit.ly/40oJFY9 
+42. R Programming :- bit.ly/3Jysq00
