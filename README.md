@@ -17,6 +17,7 @@ Welcome to the **Hacking Handbook**! Whether you're a curious beginner dipping y
     - Vulnerability Assessment
     - Reverse Engineering
     - Packet Analysis
+    - Bug bounty/Web Penetration testing
 5. Contributing
 6. License
 
