@@ -1,0 +1,7 @@
+1.HackerGPT
+2.HackGPT
+3.PentestGPT
+4.VulnGPT
+5.ThreatGPT
+6.DarkBard
+7.ChaosGPT
