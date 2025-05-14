@@ -1,0 +1,656 @@
+# OSINT Resources Categorized
+
+## Credentials & Credit Cards
+- https://www.mrchecker.net/card-checker/ccn2/ - Free credit card checker
+- https://pyobfuscate.com/tool/credit-card-validator - Credit card validator for free
+- https://www.bincodes.com/creditcard-checker/ - Credit card number checker
+- https://dnschecker.org/credit-card-validator.php - Checks a credit card number
+- https://www.fraudlabspro.com/credit-card-bin-or-iin-lookup - Credit card BIN or IIN lookup
+- https://binlist.net/ - Credit card BIN list
+- https://www.bincodes.com/ - Credit card BIN/IIN checker and lookup
+- https://bincheck.io/ - BIN or Credit Card lookup
+- https://www.bindb.com/bin-database - BIN/IIN Database
+- https://chargebacks911.com/bank-identification-numbers/ - BIN lookup
+- https://www.mastercard.us/en-us/business/issuers/simplified-bin-account-range-table.html - Mastercard BIN lookup
+- https://www.bankbinlist.com/ - Bank BIN list
+
+## Health & Medications
+- https://www.webmd.com/pill-identification/default.htm - Pill Identifier
+- https://pubmed.ncbi.nlm.nih.gov/ - Medical lookup service
+- https://www.drugs.com/ - Prescription Drug Information
+- https://go.drugbank.com/ - Database for Drug and Drug target info
+- https://medlineplus.gov/druginformation.html - Medicine, herbs and supplements information
+
+## Personal Identification
+- https://trust.dot.state.wi.us/ecdl/home.do - Drivers License Lookup
+- https://services.flhsmv.gov/DLCheck/ - Drivers License Number Checker
+- https://wisconsindot.gov/pages/online-srvcs/other-servs/status-check.aspx - Drivers License check
+- https://www.ssn-verify.com/ - SSN Verification and lookup tool
+- https://www.ssn-check.org/ - SSN Checker
+- https://www.searchbug.com/info/ssn-lookup/ - Five SSN Lookup services
+- https://www.searchbug.com/peoplefinder/ssn-verification.aspx#showMessage - Reverse SSN Lookup
+- https://findsomeonessocialsecuritynumber.info/ - Find an SSN by someone's name
+
+## Intelligence Jobs
+- https://www.clearancejobs.com/ - Find a CSINT Job
+
+## Minecraft OSINT
+- https://github.com/phishontop/mcsint - Minecraft OSINT tool
+- https://skidsearch.net/ - Skidsearch, The best Minecraft database search engine
+- https://namemc.com/ - NameMC: Minecraft Names & Skins
+
+## Email OSINT
+- https://github.com/megadose/holehe - Holehe OSINT, Email to Registered Accounts
+- https://github.com/rizwansoaib/Github-Email-Finder - Github Mail Finder
+
+## Geolocation & IP
+- https://whatismyipaddress.com/ - IP Geolocation
+- http://www.skypeipresolver.net/ - Skype IP resolver
+- http://www.skypeipresolver.net/profile.php - Skype Lookup
+- http://www.skypeipresolver.net/skype2email.php - Skype to Email
+
+## Data Breaches & Passwords
+- https://breached.vc/Thread-2023-OGU-DATABASE-LEAK - OGU 2023 Database leak
+- https://snusbase.com/ - Snusbase: The longest-standing data breach search engine
+- https://www.dehashed.com/ - Dehashed #FreeThePassword
+- https://hackcheck.io/ - Hackcheck
+- https://cirt.net/passwords - Default passwords
+- https://default-password.info/ - Default passwords list
+- https://datarecovery.com/rd/default-passwords/ - List of default passwords
+- https://wiki.skullsecurity.org/index.php?title=Passwords - Passwords
+- https://github.com/danielmiessler/SecLists/tree/master/Passwords - Popular passwords
+- https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases - Leaked Databases
+- https://hashes.com/en/tools/hash_identifier - Hash type identifier
+
+## Roblox OSINT
+- https://github.com/phishontop/bloxsint - Roblox OSINT tool
+- https://friends.roblox.com/v1/users/<userid>/friends?userSort=1 - Get information about Roblox friends
+- https://www.roblox.com/users/profile/playergames-json?userId=<userid> - Get info about games that a Roblox user made
+
+## Username Search
+- https://namechk.com/ - NameChk username search engine
+- https://github.com/HA71/Namechk - NameChk github repository
+- https://namechk.com - Social Media Monitoring Wiki
+- http://checkusernames.com - OkCupid
+- https://namecheckup.com - Tinder (R)
+- https://instantusername.com - Wamba.com
+- https://www.google.com/search?q=site:amazon.com+%3Cusername%3E - AdultFriendFinder
+- https://www.amazon.com/gp/registry/search.html/?ie=UTF8&type=wishlist - Ashley Madison
+- https://api.github.com/users/%3Cusername%3E/events/public - BeautifulPeople.com
+- https://www.gotinder.com/@%3Cusername%3E - Badoo
+- https://keybase.io - Spark.com
+- http://pgp.mit.edu - Meetup
+- https://thatsthem.com/reverse-email-lookup - BlackPeopleMeet
+
+## General Information Search
+- https://osint.sh/ - OSINT.sh. Includes subdomain scanner, DNS history, public buckets, reverse IP, technology lookup, SSL cert search, reverse Google Adsense, etc.
+- http://www.facesaerch.com/ - Facesaerch reverse face lookup
+- https://github.com/HA71/Namechk - Match.com
+- http://knowem.com - AYI.com
+- https://www.namecheckr.com - Plenty Of Fish.com
+- https://usersearch.org - eHarmony
+- https://github.com/WebBreacher/WhatsMyName - Farmers Only
+- https://www.faxvin.com/license-plate-lookup/owner - License plate lookup
+- https://thatsthem.com - Zoosk
+
+## Pastebins & Leaks
+- Doxbin - https://doxbin.com/
+- Pastebin - https://pastebin.com/
+- Hastebin - https://hastebin.com/
+- Ybin - https://ybin.me/
+- Zerobin - https://www.zerobin.tk/
+- CybercrimeBin - https://cybercrime.bin/
+- Nuclear Leaks - https://nuclearleaks.com/
+- Leaked Site - http://ww1.leaked.site/
+- Tor Bin Site - http://doxbinjs77uawbbl.onion/
+- 0bin - https://0bin.net
+- Paste Debian - https://Paste.debian.net
+- Pastee - https://Paste.ee
+- Fedoraproject - https://Paste.fedoraproject.org
+- Frubar - https://Paste.frubar.net
+- Paste KBE - https://Paste.kde.org
+- Paste Lisp - https://Paste.lisp.org
+- PoundPython - https://Paste.pound-python.org
+- OpenUse - https://Paste.openuse.org
+- Ghostbin - https://ghostbin.co/
+- Privatebin - https://privatebin.net/
+
+## Email Search
+- https://hunter.io - Pipl API (M)
+- http://www.melissadata.com/lookups/emails.asp - WhoCalld
+- https://pipl.com - 411
+- https://www.voilanorbert.com - CallerID Test
+- http://www.reversegenie.com/email.php - ThatsThem - Reverse Phone Lookup
+- http://www.edge-security.com/theharvester.php - Twilio Lookup
+- https://github.com/m4ll0k/infoga - Fone Finder
+- https://maildb.io - True Caller
+- http://www.skymem.info - Reverse Genie
+- https://mailshunt.com - SpyDialer
+- https://sites.google.com/site/emails4corporations/home - Phone Validator
+- https://www.email-format.com - Free Carrier Lookup
+- https://www.toofr.com - Mr. Number (M)
+- http://metricsparrow.com/toolkit/email-permutator - CallerIDService.com (R)
+- http://www.onelook.com/reverse-dictionary.shtml - Next Caller (R)
+- http://mailtester.com/testmail.php - Data24-7 (R)
+- http://verify-email.org - HLR Lookup Portal (R)
+- http://e-mailvalidator.com/index.php - OpenCNAM
+- http://www.email-validator.net - OpenCNAM API
+- http://www.readnotify.com - USPhoneBook
+- https://emailrep.io - Numspy-Api
+- https://www.mailboxvalidator.com/demo - Public Records?
+- https://haveibeenpwned.com - Enigma
+- https://dehashed.com - The World Bank Open Data Catalog
+- https://intelx.io - BRB Public Records
+- https://www.vigilante.pw - GOVDATA - Data portal for Germany (German)
+- http://breachorclear.jesterscourt.cc - Open-Data-Portal München (German)
+- https://ashley.cynic.al - Satellite Tracking
+
+## DNS & Network Tools
+- http://www.tcpiputils.com/dns-blackhole-list - Track-Trace
+- http://mxtoolbox.com - Bing Maps
+- http://centralops.net/co/DomainDossier.aspx - HERE Maps
+- https://www.domainiq.com - Dual Maps
+- http://whois.domaintools.com - Instant Google Street View
+- http://domainbigdata.com - Wikimapia
+- https://whoisology.com/#advanced - OpenStreetMap
+- https://whois.arin.net/ui/advanced.jsp - Flash Earth
+- https://tools.dnsstuff.com - Historic Aerials
+- https://www.robtex.com - Google Maps Update Alerts
+- http://www.domaincrawler.com - Google Earth Overlays
+- https://domains.markmonitor.com/whois - Yandex.Maps
+- https://www.easywhois.com - TerraServer
+- http://website.informer.com - Baidu Maps
+- https://who.is - Corona
+- https://whoisamped.com - Daum (Korean)
+- http://viewdns.info - Naver (Korean)
+- https://domainsdb.info - OpenStreetMap
+- https://www.ip2whois.com - EarthExplorer
+- https://github.com/michenriksen/aquatone - OpenStreetCam
+- https://findsubdomains.com - Dronetheworld
+- https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E - Travel by Drone
+- https://github.com/lanmaster53/recon-ng - Hivemapper
+- https://github.com/evilsocket/xray - LandsatLook Viewer
+- https://github.com/darkoperator/dnsrecon - Sentinel2Look Viewer
+- https://github.com/OJ/gobuster - NEXRAD Data Inventory Search
+- https://github.com/davidpepper/fierce-domain-scanner - MapQuest
+- https://github.com/RandomStorm/Bluto - OpenRailwayMap
+- http://www.edge-security.com/theharvester.php - OpenStreetMap Routing Service
+- https://pentest-tools.com/information-gathering/find-subdomains-of-domain - Hiking & Biking Map
+- https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS - US Nav Guide Zip Code Data
+- https://github.com/bitquark/dnspop - Wayback Imagery
+- https://github.com/hrbrmstr/gdns - ExifTool (T)
+- https://github.com/infosec-au/assetnote - Metagoofil (T)
+- http://netintel.net - FOCA (T)
+- https://github.com/aboul3la/Sublist3r - CodeTwo Outlook Export (T)
+- https://github.com/infosec-au/altdns - Global Terrorism Database
+- https://www.shodan.io - Tor2web
+- https://github.com/Sw4mpf0x/Kraken - Web O Proxy
+- https://urlscan.io/search - IACA Dark Web Investigation Support
+- http://www.dailychanges.com - Craigslist
+- http://sameid.net - Kijiji - Canada Classifieds
+- http://redirectdetective.com - Quikr - India Classifieds
+- https://www.certificate-transparency.org/known-logs - eBay
+- https://spyse.com/search/certificate - OfferUp
+- https://censys.io - Goofbid
+- https://crt.sh - Flippity
+- https://github.com/lanrat/certgraph - SearchAllJunk
+- https://securitytrails.com - TotalCraigSearch
+- http://passivedns.mnemonic.no - Backpage
+- http://dnshistory.org - Search Tempest
+- http://ptrarchive.com - Oodle
+- https://dnsdumpster.com - Claz.org
+- https://www.deteque.com - CyberChef
+- http://urlquery.net - Functions Online
+- https://www.passivetotal.org - Paterva / Maltego (T)
+- http://www.urlvoid.com - Epic Privacy Browser (T)
+- https://www.threatcrowd.org - Overview
+- http://fortiguard.com/iprep - Ghidra (T)
+- http://www.trustedsource.org - Malware Analysis Tools
+- https://global.sitesafety.trendmicro.com - MITRE ATT&CK
+- http://www.reputationauthority.org - Exploit DB
+- https://sitecheck.sucuri.net - Packet Storm
+- https://www.threatminer.org - SecurityFocus
+- https://sitereview.bluecoat.com/sitereview.jsp - NVD - NIST
+- http://zulu.zscaler.com - OSVDB: Open Sourced Vulnerability Database
+- https://www.url-analyzer.net - CVE Details
+- https://search.deepviz.com - CVE - MITRE
+- http://www.senderbase.org - OWASP
+- http://www.avgthreatlabs.com/ww-en/website-safety-reports - 0day.today
+- http://www.brightcloud.com/tools/url-ip-lookup.php - Secunia
+- https://vurldissect.co.uk - Canadian Centre for Cyber Security
+- https://otx.alienvault.com/browse/pulses - IBM X-Force Exchange
+- http://www.malwaredomainlist.com/mdl.php - Malware Information Sharing Platform
+- http://app.webinspector.com - Malware Patrol
+- https://developers.google.com/safe-browsing/?csw=1 - Project Honey Pot
+- http://hosts-file.net - Cymon Open Threat Intelligence
+- http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt - mlsecproject / combine
+- http://www.networksec.org/grabbho/block.txt - hostintel - keithjjones Github
+- https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist - massive-octo-spice - csirtgadgets Github
+- http://mirror1.malwaredomains.com/files/domains.txt - Bot Scout
+- https://github.com/maravento/blackweb - Blueliv Threat Exchange (R)
+- https://intel.criticalstack.com - APTnotes
+- http://malc0de.com/bl - HoneyDB
+- http://www.malwaredomains.com/wordpress/?page_id=66 - Pulsedive
+- http://www.malwaredomainlist.com/hostslist/hosts.txt - Mr.Looquer IOC Feed - 1st Dual Stack Threat Feed
+- http://www.malware.com.br/open-source.shtml - Timeline JS3
+- http://www.malwareurl.com/index.php - AutomatingOSINT.com
+- https://www.scumware.org - Open Source Intelligence Techniques
+- https://zeustracker.abuse.ch/blocklist.php - Plessas
+- http://www.shadowserver.org/wiki/pmwiki.php?n=Services/Reports - SANS SEC487 OSINT Class
+
+## Forums & Communities
+- 0x00sec – https://0x00sec.org
+- Alligator – https://alligator.cash
+- Altenen Forums – https://altenens.is
+- Antichat – https://forum.antichat.com
+- ASCarding – https://ascarding.com
+- Black Hat Pro Tools – https://www.blackhatprotools.info
+- BreachForums – https://breached.to
+- Carder Forum Online – https://carder-forum.online
+- Carding Forum – https://cardingforum.cx
+- Carding Leaks – https://cardingleaks.ws
+- Raidforums - https://raidforums.com/
+- CardVilla – https://cardvilla.cc
+- Evilzone - https://evilzone.org/
+- Hackforums - https://hackforms.com/
+- Beamingforums - https://beamingf.bz.info/
+- Freehack - https://free-hack.com/
+- Criminalz - http://www.criminalz.org
+- Chitachok – https://chitachok.fun
+- Combolist – https://combolist.top
+- Cracked – https://cracked.io
+- Crackia – https://crackia.com
+- Crackforums - https://crackingforum.to/
+- Cracking – https://cracking.org
+- Crackingall – https://crackingall.com
+- Cracking Hits – https://crackinghits.to
+- Cracking Italy – https://crackingitaly.to
+- Leakforums - https://leakforums.su
+- Carding Mafia - https://cardingmafia.to/
+- Cracking X – https://crackingx.com
+- Cracking Pro – https://www.crackingpro.com
+- Crackingshare – https://crackingshare.com
+- Crackx – https://crackx.to
+- Crimenetwork – https://crime.to
+- CrdCrew – https://crdcrew.cc
+- CrdPro – https://crdpro.cc
+- Exploit Database - https://www.exploit-db.com/
+- CWEB Carding Forum – https://www.cweb.ws
+- CyberForum RU – https://www.cyberforum.ru
+- Cyber Leaks – https://cyberleaks.to
+- Cyber Nulled – https://cybernulled.com
+- DarkPro – https://darkpro.net
+- DarkStash – https://darkstash.com
+- Dark-Time – https://srv2.dark-time.life
+- Darkweb Mafias – https://darkwebmafias.ws
+- Demon Forums – https://www.demonforums.net
+- DirectLeaks – https://directleaks.to
+- DrDark – https://drdark.ru
+- ELeaks – https://eleaks.to
+- Enclave – https://www.enclave.cc
+- Eternia – https://eternia.to
+- Exetools – https://forum.exetools.com
+- Exploit.in – https://exploit.in
+- EzCarder – https://ezcarder.cc
+- ForumTeamSite – https://forumteam.site
+- FSSquad – https://fssquad.com
+- Ghostlyhaks – https://ghostlyhaks.com/forum
+- Go4Expert – https://www.go4expert.com/forums
+- Greekhacking – https://greekhacking.gr
+- Hack Forums – https://hackforums.net
+- Hacking Father – https://hackingfather.com
+- Hackonology – https://hackonology.com/forum
+- Hack Seller – https://hackseller.com
+- HacksTurkey – https://hacksturkey.com
+- Happy Hack – http://happy-hack.net/board
+- Hide01 Forums – https://forums.hide01.ir
+- High-Minded – https://high-minded.net
+- Indetectables – https://indetectables.net/index.php
+- Iran-Cyber – https://iran-cyber.net/forums
+- Kuketz Forum – https://forum.kuketz-blog.de
+- Leak Forum – https://leakforum.org
+- Leak Zone – https://leakzone.net
+- Leaked BB – https://leakedbb.com
+- Leech – https://leech.is
+- Legit Carder – https://legitcarder.ru
+- LegitCarders – https://legitcarders.ws
+- Lolz Guru – https://lolz.guru
+- MaulTalk – https://www.maultalk.com
+- Memory Hackers – https://memoryhackers.org
+- Niflheim – https://niflheim.top
+- Noirth – https://noirth.com
+- Nsane Forums – https://nsaneforums.com
+- Null Cracker – https://nullcrack.store
+- Nulled – https://www.nulled.to
+- Nulled.Id – https://nulled.id
+- Pegasus Hack Team – https://pegasushackteam.com
+- Psylab – https://psylab.cc
+- Openssource – https://www.openssource.info
+- P0wersurge – https://p0wersurge.com/forums
+- ProLogic – https://prologic.su
+- R10 – https://www.r10.net
+- Reteam – http://reteam.org/board
+- ROM Hacking – https://www.romhacking.net/forum
+- RST Forums – https://rstforums.com/forum
+- Russian Carder – https://russiancarder.net
+- Seopirat – https://www.seopirat.club
+- Shield Forum – https://shieldforum.in
+- Sinful Site – https://sinfulsite.com
+- Sinisterly – https://sinister.ly
+- SoldierX – https://www.soldierx.com/bbs
+- SzeneBox – https://www.szenebox.org
+- TrainingCircle – https://trainingcircle.in
+- Trusted Sellers – https://trustedsellers.ws
+- TurkHacks – https://www.turkhacks.com
+- Underc0de – https://underc0de.org/foro
+- UnderWorldMafias – https://underworldmafias.net
+- Valid Market – https://www.validmarket.io
+- Verified Carder – https://www.verifiedcarder.net
+- VLMI – https://vlmi.ws
+- Webmasters – http://webmasters.ru/forum
+- Wilders Security – https://www.wilderssecurity.com
+- Xaker.Name Team – https://xak.guru
+- XSS.is – https://xss.is
+- YouHack – https://www.youhack.ru
+
+## Domain Search
+- https://www.mailboxvalidator.com/domain - NetBootCamp
+- https://github.com/elceef/dnstwist - Smart Questions
+- http://www.morningstarsecurity.com/research/urlcrazy
+- https://dnstwister.report
+- https://github.com/ring0lab/catphish
+- http://builtwith.com
+- https://www.sitesleuth.io
+- https://wappalyzer.com
+- https://www.semrush.com
+- https://topgainers.net
+- http://moonsearch.com
+- https://stackshare.io
+- https://ewhois.com
+- http://toolbar.netcraft.com/site_report?url=undefined#last_reboot
+- http://www.statscrop.com
+- https://moz.com/researchtools/ose
+- http://www.spyonweb.com
+- https://securityheaders.io
+- http://tools.seobook.com/general/keyword-density
+- http://www.alexa.com/siteinfo
+- http://s3-us-west-1.amazonaws.com/umbrella-static/index.html
+- http://www.alexa.com/topsites
+- https://w3bin.com
+- http://www.sitedossier.com
+- http://www.visualsitemapper.com
+- https://www.clearwebstats.com
+- http://pub-db.com
+- https://w3dt.net
+- https://www.similarweb.com
+- http://websiteoutlook.com
+- http://siteliner.com
+- https://www.webpagetest.org
+- https://github.com/urbanadventurer/WhatWeb
+- http://www.linkexpander.com
+- http://www.getlinkinfo.com
+- http://checkshorturl.com
+- https://lengthen.me
+- http://urlex.org
+- http://www.urlunshortener.com
+- http://wheredoesthislinkgo.com
+- http://www.knowurl.com
+- http://visualping.io
+- http://www.changedetection.com
+- https://www.followthatpage.com
+- https://github.com/thp/urlwatch
+- http://watchthatpage.com
+- http://www.changedetect.com
+- https://www.google.com/trends
+- https://www.reddit.com/domain/%3CURLhere%3E
+- http://dnssec-debugger.verisignlabs.com
+- http://dnsviz.net
+- https://buckets.grayhatwarfare.com
+- https://github.com/jordanpotti/cloudscraper
+- https://github.com/1N3/Sn1per
+- https://magescan.com
+- https://www.xssposed.org
+- http://zone-h.org/archive
+- https://github.com/danielmiessler/RobotsDisallowed
+- https://portswigger.net/burp
+- http://softbytelabs.com/en/BlackWidow
+- http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml
+- http://mct.verisign-grs.com
+- https://github.com/ChrisTruncer/EyeWitness
+- https://github.com/aancw/Belati
+- https://github.com/gfek/Hunting-New-Registered-Domains
+- https://www.maxmind.com/en/home
+- http://ipverse.net
+- https://www.ip2location.com/demo
+- http://www.ipfingerprints.com
+- https://db-ip.com
+- https://www.iplocation.net
+- http://www.infosniper.net
+- http://en.utrace.de
+- https://www.infobyip.com
+- https://www.iptrackeronline.com
+- https://www.ipaddress.my
+- https://spyse.com/search/ip
+- https://www.shodan.io
+- https://scans.io
+- https://www.zoomeye.org
+- https://nmap.org/download.html
+- http://www.exfiltrated.com/querystart.php
+- https://urlscan.io/search
+- https://github.com/vesche/scanless
+- https://github.com/robertdavidgraham/masscan
+- https://aslookup.com
+- https://www.onyphe.io
+- http://www.cidr-report.org/as2.0
+- https://reverse.report
+- https://asn.cymru.com
+- https://iptoasn.com
+- https://hackertarget.com/reverse-dns-lookup
+- http://www.cidr-report.org/v6/as2.0
+- http://bgp.he.net
+- http://bgpranking.circl.lu
+- https://bgpstream.com
+- https://www.peeringdb.com/advanced_search
+- http://www.bgp4.as/tools
+- http://www.ipvoid.com
+- https://exonerator.torproject.org
+- https://www.liveipmap.com
+- http://www.blocklist.de/en/index.html
+- https://isc.sans.edu/api
+- http://iplists.firehol.org
+- http://www.projecthoneypot.org/list_of_ips.php
+- http://www.ipfingerprints.com/reverseip.php
+- http://www.bing.com/search?q=ip%3A8.8.8.8
+- http://www.tcpiputils.com/domain-neighbors
+- http://www.my-ip-neighbors.com
+- http://www.sameip.org
+- http://www.crimeflare.com
+- https://github.com/m0rtem/CloudFail
+- https://wigle.net
+- https://opencellid.org
+- https://www.wireshark.org/download.html
+- https://www.netresec.com/?page=Networkminer
+- http://www.packettotal.com
+- https://www.networktotal.com
+- https://ki.tc
+- https://grabify.link
+- https://iplogger.com
+
+## Image Search
+- https://images.google.com/?gws_rd=ssl
+- http://www.bing.com/images
+- http://images.yahoo.com
+- http://tineye.com
+- https://www.yandex.com/images
+- http://shitu.baidu.com
+- https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images
+- https://imgur.com/search
+- http://photobucket.com
+- http://www.picsearch.com
+- http://karmadecay.com
+- https://www.imageraider.com
+- http://7photos.net
+- http://www.panoramio.com
+- http://current-location.com
+- http://www.lakako.com
+- https://ccsearch.creativecommons.org
+- http://camfindapp.com
+- https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en
+- http://www.smugmug.com/search
+- http://image-net.org
+- http://places2.csail.mit.edu/explore.html
+- https://www.imageidentify.com
+- https://saucenao.com
+- http://websta.me/search
+- https://www.instagram.com
+- http://mininsta.net
+- https://imgrab.com
+- https://tofo.me
+- https://www.flickr.com
+- https://www.flickr.com/map
+- http://www.mypicsmap.com
+- http://idgettr.com
+- http://flickrhivemind.net
+- http://www.sno.phy.queensu.ca/~phil/exiftool
+- http://exif.regex.info
+- http://www.exifviewer.org
+- http://www.exif-search.com
+- http://imgops.com
+- http://metapicz.com/#landing
+- http://www.impulseadventure.com/photo/jpeg-snoop.html
+- http://www.geosetter.de/en
+- http://gbimg.org
+- http://fotoforensics.com
+- http://www.izitru.com
+- https://github.com/ghirensics/ghiro
+- http://www.stolencamerafinder.co.uk
+- http://www.cameratrace.com/trace
+- http://www.free-ocr.com
+- http://www.i2ocr.com
+- https://www.newocr.com
+- http://www.onlineocr.net
+- http://www.geocreepy.com
+
+## Video Search
+- https://www.google.com/videohp?gws_rd=ssl
+- http://www.bing.com/videos
+- https://vimeo.com/search
+- https://archive.org/details/opensource_movies
+- https://www.google.com/search?q=site:vine.co+%3Csearchterm%3E
+- http://www.dogpile.com
+- http://www.geosearchtool.com
+- http://www.blinkx.com
+- https://www.facebook.com/livemap
+- https://www.liveleak.com
+- http://www.metacafe.com
+- http://www.metatube.com
+- http://video.search.yahoo.com
+- http://deturl.com
+- http://www.labnol.org/internet/print-youtube-video/28217
+- http://labnol.org/?p=28217'%20style='text-decoration:none;color:#fff;font-style:bold'%3EPrinted%20using%20the%20YouTube%20bookmarklet.%3C/a%3E%3C/em%3E%3C/body%3E%22;msg=msg.replace(%22TITLE%22,title).replace(%22IMAGES%22,imgs).replace(/PICTURE/g,%22img%20src%22);var%20labnol=window.open();labnol.document.open();labnol.document.write(msg);labnol.document.close
+- https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB
+- http://www.amnestyusa.org/citizenevidence
+- http://www.tubechop.com
+- https://tools.digitalmethods.net/netvizz/youtube
+- https://hooktube.com
+- https://yasiv.com/youtube
+- https://github.com/baywolf88/seeallthethings
+- http://insecam.org
+- http://www.earthcam.com
+
+## Document Search
+- https://www.google.com/?q=site:docs.google.com+%3Csearchterm%3E
+- https://www.google.com/?q=site:drive.google.com+%3Csearchterm%3E
+- https://www.google.com/?q=site:dl.dropbox.com+%3Csearchterm%3E
+- https://www.google.com/search?q=site:s3.amazonaws.com+%3Csearchterm%3E
+- https://www.google.com/search?safe=off&q=site:onedrive.live.com+%3Csearchterm%3E
+- https://www.google.com/search?q=site:cryptome.org+%3Csearchterm%3E
+- https://www.scribd.com
+- http://www.docjax.com
+- https://search.wikileaks.org/advanced
+- http://archive.recapthelaw.org
+- http://filessoo.com
+- https://search.wikileaks.org/plusd
+- http://pastebin.com/trends
+- http://andrewmohawk.com/pasteLert
+- https://justpaste.it
+- https://github.com/needmorecowbell/sniff-paste
+
+## Fonts & Typography
+- https://www.myfonts.com/WhatTheFont
+- https://www.fontsquirrel.com/matcherator
+- http://www.identifont.com/index.html
+- https://www.fontspring.com/matcherator
+- https://www.whatfontis.com
+
+## Facebook OSINT
+- http://findmyfbid.com
+- https://www.facebook.com/public?query=email@gmail.com&nomc=0
+- https://www.facebook.com/login/identify?ctx=recover
+- https://www.facebook.com/photo.php?fbid=PHOTO-ID-HERE
+- https://www.facebook.com/directory/people
+- http://netbootcamp.org/facebook.html
+- https://lookup-id.com
+- https://www.facebook.com/login/identify
+- https://searchisback.com
+- http://socialsearching.info/#/fb
+- https://www.facebook.com/livemap
+- https://github.com/sqren/fb-sleep-stats
+- http://stalkscan.com/en
+- http://le-tools.com/ExtractFace.html#download
+
+## Twitter OSINT
+- https://twitter.com/search-advanced
+- https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd - Location search
+- https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02 - Date search
+- https://twitter.com/#!/who_to_follow - Name search
+- https://twitter.com/i/directory/profiles/ - User directory
+- https://twitter.com/search?q=%23periscope%20OR%20%23meerkat - Live stream search
+- http://www.conweets.com/
+- https://twitterfall.com/
+- https://www.twellow.com/splash/
+- http://ctrlq.org/first/
+- https://tweetreach.com/
+- http://backtweets.com/
+- https://moz.com/followerwonk/bio/?q=zero%20day&l=us
+- https://hootsuite.com/feed/SearchTerm?pfilter=
+- https://tweetdeck.twitter.com/
+- http://twopcharts.com/
+- https://pdevesian.eu/tet
+- http://twoogel.com/
+- https://github.com/paulgb/Treeverse
+- https://twayback.com/
+- http://twicsy.com/
+- http://tweepsect.com/
+- https://moz.com/followerwonk/analyze
+- https://moz.com/followerwonk/compare
+- http://www.twitonomy.com/
+- http://fakers.statuspeople.com/
+- http://klear.com/
+- https://discover.twitter.com/first-tweet
+- http://tweettunnel.info/firstpre.php
+- http://twitalyzer.com/5/index.asp
+- https://foller.me/
+- http://mentionmapp.com/
+- http://sleepingtime.org/
+- http://bioischanged.com/%3Ctwitterusername%3E
+- https://github.com/x0rz/tweets_analyzer
+- https://socialbearing.com/
+- https://lanc-remastered.com/
+- https://xresolver.com/
+- https://xboxonebooter.com/
+- https://lanc-remastered.com/2019/10/30/octosniff-free/ - OctoSniff Cracked
+
+## OPSec Sources
+- OPSEC Academy: https://www.opsecacademy.org/
+- The National Security Agency's OPSEC website: https://www.nsa.gov/what-we-do/cybersecurity/operational-security/
+- The Defense Information Systems Agency's OPSEC website: https://www.disa.mil/cybersecurity/network-defense/operational-security
+- The OPSEC Professionals Society: https://www.opsecsociety.org/
+- OPSEC360: https://opsec360.com/
+- Wireshark: https://www.wireshark.org/
+- The OPSEC Group: https://www.opsecgroup.com/
+- OPSEC Toolkit: https://opsectoolkit.com/
+- Tails: https://tails.boum.org/
+- Tor: https://www.torproject.org/
+- Monero: https://www.getmonero.org/
+- Signal: https://signal.org/
